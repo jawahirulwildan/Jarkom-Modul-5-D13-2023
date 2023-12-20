@@ -427,7 +427,7 @@ nc 10.28.8.2 22 #ip sein
 Testing pada 3 Client yang bukan Grobeforest ke IP Stark
 ![4](images/4-1.png)
 ![4](images/4-2.png)
-![4](images/4-3.png)
+![4](images/4-3.png)<br>****
 Tidak Terjadi perubahan pada node Stark
 ![4](images/4-1-stark.png)
 
@@ -438,7 +438,7 @@ Testing pada GrobeForest ke IP Stark
 Testing pada 3 Client yang bukan Grobeforest ke IP Sein
 ![4](images/4_1.png)
 ![4](images/4_2.png)
-![4](images/4_3.png)
+![4](images/4_3.png)<br>
 Tidak Terjadi perubahan pada node Sein
 ![4](images/4_1_sein.png)
 
@@ -467,7 +467,7 @@ Ubahlah date pada gns dengan perintah sebagai berikut(dapat dijalankan di node m
 ```bash
 date -s "19 DEC 2023 09:00"
 ```
-![5](images/5.png)
+![5](images/5.png)<br>
 Lakukan perintah berikut pada Grobeforest secara bergantian
 ```bash
 ping 10.28.14.146 #ip stark
